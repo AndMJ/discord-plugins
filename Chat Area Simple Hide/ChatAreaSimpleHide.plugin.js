@@ -4,6 +4,7 @@
  * @authorLink https://github.com/AndMJ
  * @version 0.0.1
  * @description Resizes window to hide chat area from view, showing only the left sidebar, with the servers and its channels. Make sure to enable "Remove Minimum Size" on BetterDiscord settings.
+ * @source https://raw.githubusercontent.com/AndMJ/discord-plugins/main/Chat%20Area%20Simple%20Hide/ChatAreaSimpleHide.plugin.js
  */
 
 //just incase i decide to use them
